@@ -1,0 +1,14 @@
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.exe
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.deps.json
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.runtimeconfig.json
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.dll
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.pdb
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.AssemblyInfo.cs
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.dll
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\refint\FirstConsoleApp.dll
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.pdb
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.genruntimeconfig.cache
+C:\Users\Sokpagna\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\ref\FirstConsoleApp.dll
